@@ -1,0 +1,11 @@
+# gradle files
+build
+.gradle
+
+# idea files
+/.idea/*
+!/.idea/copyright/
+!/.idea/dictionaries/
+!/.idea/codeStyles/
+!/.idea/google-java-format.xml
+/*.iml
